@@ -5,6 +5,7 @@ public class PrimeNumber {
 
 int num =2;
 boolean isPrime =true;
+        System.out.println("Simple Prime number program");
 
         for (int i = 2; i <=num/2 ; i++) {
 
